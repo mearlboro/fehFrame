@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=slideshow_start
+Exec=/home/pi/slideshow_start.sh
+Type=application
